@@ -1,0 +1,7 @@
+$ git init	//initialize new repository
+$ git config --global user.name "git-username"		//autentication
+$ git config --global user.emailid "git-email-id"
+$ git add .		//add repository to local git server
+$ git commit -m "message"		//save changes
+$ git remote add origin http://github.com/---		
+$ git push -u origin master		//upload to remote server
